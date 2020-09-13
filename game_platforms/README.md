@@ -5,4 +5,5 @@ Using historical data on sales of computer games, user and expert ratings, genre
 
 ## Libraries / Key tools
 `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`
+
 *EDA*, *Applying hypothesis*
