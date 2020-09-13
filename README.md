@@ -1,4 +1,4 @@
-# Projects at Yandex.Praktikum Data Analyst school
+# Projects when studying at Yandex.Praktikum Data Analyst school
 Code is on Python, comments in notebooks are in Russian.
 
 | Project name | Description | Libraries | 
