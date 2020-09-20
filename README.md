@@ -2,8 +2,7 @@
 
 | Название проекта | Описание | Библиотеки | 
 | :--- | :--- | :--- | 
-| [Borrowers reliability](https://github.com/mxserg/yandex_praktikum_projects/blob/master/borrowers_reliability/sergeev_borrowers_reliability.ipynb) |  
-На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок | `Pandas`, `PyMystem3` |
+| [Borrowers reliability](https://github.com/mxserg/yandex_praktikum_projects/blob/master/borrowers_reliability/sergeev_borrowers_reliability.ipynb) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок | `Pandas`, `PyMystem3` |
 | [Real estate](https://github.com/mxserg/yandex_praktikum_projects/blob/master/real_estate_spb/sergeev_real_estate_spb.ipynb) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир | `Pandas`, `Matplotlib`, `Seaborn` |
 | [Telecom tariffs](https://github.com/mxserg/yandex_praktikum_projects/blob/master/telecom_tariffs/sergeev_telecom_tariffs.ipynb) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа | `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `Plotly`, `Seaborn` |
 | [Game platforms](https://github.com/mxserg/yandex_praktikum_projects/blob/master/game_platforms/sergeev_game_platforms.ipynb) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры | `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly` |
